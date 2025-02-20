@@ -5,7 +5,7 @@ import RegisterPage from './components/Register';
 import Dashboard from './components/Dashboard';
 
 export const config = {
-  endpoint: "http://localhost:8082/v1"
+  endpoint: "https://skai-lama-w9ex.onrender.com/v1"
 }
 
 function App() {
